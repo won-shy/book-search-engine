@@ -1,8 +1,8 @@
-# book-search-engine# MERN Book Search Engine
+# MERN Book Search Engine
 
 ## Table of Contents
 
-- [book-search-engine# MERN Book Search Engine](#book-search-engine-mern-book-search-engine)
+- [MERN Book Search Engine](#mern-book-search-engine)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Links](#links)
